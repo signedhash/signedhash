@@ -1,6 +1,6 @@
 > [!NOTE]
 > Welcome to my GitHub page! <br>
-> You can find more information on my website · [signedhash.github.io](https://singedhash.github.io)
+> You can find more information on my website · [signedhash.github.io](https://signedhash.github.io)
 
 ### </about me>
 I am interested in forensics, work on various projects, and study different encryption methods. The goal of this account is to make a contribution to the world.
