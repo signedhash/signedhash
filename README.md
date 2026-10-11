@@ -3,7 +3,7 @@
 > You can find more information on my website · [signedhash.github.io](https://signedhash.github.io)
 
 ### </about me>
-I explore digital forensics, cryptography, and low-level programming. This account is a collection of technical experiments, projects, and ideas developed along the way.
+I explore digital forensics, cryptography, and low-level programming. <br> This account is a collection of technical experiments, projects, and ideas developed along the way.
 
 ```cpp
 #include <algorithm>
